@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain_community
+langchain-groq
+langchain_huggingface
+duckduckgo-search
+groq
+transformers
+faiss-cpu
+sentence-transformers
+python-dotenv
+torch
+yfinance
+wikipedia
