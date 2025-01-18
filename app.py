@@ -25,7 +25,7 @@ duckduckgo_search = DuckDuckGoSearchResults()
 wikipedia = WikipediaAPIWrapper()
 
 # initialize llm model
-groq_model = ChatGroq(model="llama-3.3-70b-versatile", api_key=GROQ_API_KEY)
+groq_model = ChatGroq(model="llama-3.3-70b-specdec", api_key=GROQ_API_KEY)
 
 # define tools that the agent can use
 tools = [
